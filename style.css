@@ -103,12 +103,12 @@ ul li a:hover{
     align-items : center;
     height:100vh;
     width: 93.7vw;
-    background: url("/images/img3.jpg") no-repeat center center/cover;
+    background: url("images/img3.jpg") no-repeat center center/cover;
 }
 
 #container1::before{
     content:'';
-    background: url("/images/img2.jpg") no-repeat center center/cover;
+    background: url("images/img2.jpg") no-repeat center center/cover;
     width:100vw;
     height:59vh;
     position:absolute;
@@ -171,7 +171,7 @@ ul li a:hover{
      position: relative;
      margin-right: 38px;
      border-radius: 40px;
-     background: url('/images/img2.jpg') no-repeat center center/cover;
+     background: url('images/img2.jpg') no-repeat center center/cover;
      
 }
 
@@ -197,7 +197,7 @@ ul li a:hover{
      box-shadow: 2px 7px 16px 19px;
      margin-top:150px;
      margin-bottom: 51px;
-     background: url('/images/img4.jpg') no-repeat center center/cover;
+     background: url('images/img4.jpg') no-repeat center center/cover;
      margin-left: 38px;
      border-radius: 40px;
 }
@@ -245,7 +245,7 @@ ul li a:hover{
     /* width: 29vw; */
     height: 360px;
     border: 2px solid black;
-    background:url('/images/img5.jpg') no-repeat center center/cover; 
+    background:url('images/img5.jpg') no-repeat center center/cover; 
     display: flex;
     justify-content:center;
     align-items:flex-end;
@@ -255,7 +255,7 @@ ul li a:hover{
     /* width: 29vw; */
     height: 360px;
     border: 2px solid black;
-    background:url('/images/img6.jpg') no-repeat center center/cover;
+    background:url('images/img6.jpg') no-repeat center center/cover;
     display: flex;
     justify-content:center;
     align-items:flex-end;
@@ -265,7 +265,7 @@ ul li a:hover{
     /* width: 29vw; */
     height: 360px;
     border: 2px solid black;
-    background:url('/images/img7.jpg') no-repeat center center/cover;
+    background:url('images/img7.jpg') no-repeat center center/cover;
     display: flex;
     justify-content:center;
     align-items:flex-end;
